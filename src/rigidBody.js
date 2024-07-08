@@ -1,5 +1,5 @@
 
-var aabb = require('aabb-3d')
+var {default: aabb} = require('aabb-3d')
 var vec3 = require('gl-vec3')
 
 
